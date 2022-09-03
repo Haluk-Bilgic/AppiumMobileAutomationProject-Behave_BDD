@@ -1,0 +1,37 @@
+
+30/08/22 09:40:43 AM Tuesday - <module> - INFO : Automation Started
+30/08/22 09:40:43 AM Tuesday - <module> - INFO : before feature
+30/08/22 09:40:53 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/ContactUs
+30/08/22 09:40:54 AM Tuesday - BasePage - INFO : Element with LocatorType: text and with the locatorValue :Contact Us form is displayed
+30/08/22 09:40:54 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Name
+30/08/22 09:40:55 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Email
+30/08/22 09:40:56 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Address
+30/08/22 09:40:57 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: index and with the locatorValue :4
+30/08/22 09:40:58 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: text and with the locatorValue :SUBMIT
+30/08/22 09:40:58 AM Tuesday - BasePage - INFO : Screenshot save to Path:C:\Users\haluk\PycharmProjects\HalukStudy\AppiumFrameWork\screenshots\final_30_08_22_09_40_58.png
+30/08/22 09:40:58 AM Tuesday - <module> - INFO : after feature
+30/08/22 09:41:03 AM Tuesday - <module> - INFO : before feature
+30/08/22 09:41:14 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+30/08/22 09:41:15 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: index and with the locatorValue :3
+30/08/22 09:41:16 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Password
+30/08/22 09:41:17 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+30/08/22 09:41:18 AM Tuesday - BasePage - INFO : Element with LocatorType: text and with the locatorValue :Enter Admin is displayed
+30/08/22 09:41:18 AM Tuesday - <module> - INFO : after feature
+30/08/22 09:41:23 AM Tuesday - <module> - INFO : before feature
+30/08/22 09:41:33 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+30/08/22 09:41:34 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: index and with the locatorValue :3
+30/08/22 09:41:35 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Password
+30/08/22 09:41:36 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+30/08/22 09:41:36 AM Tuesday - BasePage - INFO : Element with LocatorType: text and with the locatorValue :Wrong Credentials is displayed
+30/08/22 09:41:37 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+30/08/22 09:41:38 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: index and with the locatorValue :3
+30/08/22 09:41:40 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Password
+30/08/22 09:41:40 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+30/08/22 09:41:41 AM Tuesday - BasePage - INFO : Element with LocatorType: text and with the locatorValue :Wrong Credentials is displayed
+30/08/22 09:41:42 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Login
+30/08/22 09:41:43 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: index and with the locatorValue :3
+30/08/22 09:41:44 AM Tuesday - BasePage - INFO : Send text on element with LocatorType: text and with the locatorValue :Enter Password
+30/08/22 09:41:45 AM Tuesday - BasePage - INFO : Clicked on element with LocatorType: id and with the locatorValue :com.code2lead.kwad:id/Btn3
+30/08/22 09:41:45 AM Tuesday - BasePage - INFO : Element with LocatorType: text and with the locatorValue :Wrong Credentials is displayed
+30/08/22 09:41:45 AM Tuesday - <module> - INFO : after feature
+30/08/22 09:41:50 AM Tuesday - <module> - INFO : Automation Ended
