@@ -18,7 +18,7 @@ Usage to run a single test:
 * POM Design Pattern
 * PyCharm - Development Environment
 * Custom-logger for logging purpose
-* Code2Lead app
+* AppiumDemo app
 * Github - Git repository
 
 Link to download app:
