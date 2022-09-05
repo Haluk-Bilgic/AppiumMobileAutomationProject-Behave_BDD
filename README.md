@@ -20,3 +20,6 @@ Usage to run a single test:
 * Custom-logger for logging purpose
 * Code2Lead app
 * Github - Git repository
+
+Link to download app:
+https://github.com/Skill2Lead/AndroidDemoApp/blob/main/Android_Appium_Demo.apk
