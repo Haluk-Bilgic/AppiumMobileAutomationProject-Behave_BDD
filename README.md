@@ -7,7 +7,7 @@ BDD framework used is Behave which is an Cucumber clone for Python.
 
 Mobile Test Automation framework is Appium which is most supported right now.
 
-Usage to run test:
+Usage to run a single test:
 >     behave android_sample.feature
 
 ## Tools & libraries
